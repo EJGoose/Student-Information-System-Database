@@ -1,3 +1,4 @@
+--These queries were written for Microsoft SQL Server
 
 -- Create two tables in the database:
 
